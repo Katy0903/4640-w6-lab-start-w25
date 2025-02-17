@@ -9,10 +9,10 @@ See lab instructions on D2L for details.
 ## Screenshots
 
 ### HTML Page Screenshot
-![HTML Page](screenshots/html_page.png)
+![HTML Page](screenshot/html_page.png)
 
 ### Instance Created with AMI
-![Instance Created with AMI](screenshots/instance_created_with_ami.png)
+![Instance Created with AMI](screenshot/instance_created_with_ami.png)
 
 
 ## References
